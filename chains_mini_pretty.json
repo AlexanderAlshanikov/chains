@@ -23919,9 +23919,9 @@
   "faucets": ["https://devnet2faucet.platon.network/faucet"],
   "infoURL": "https://www.platon.network"
 }, {
-  "name": "Coinweb BNB shard",
+  "name": "Coinweb",
   "chainId": 2222222,
-  "shortName": "cweb-bnb",
+  "shortName": "cweb",
   "networkId": 2222222,
   "nativeCurrency": {
     "name": "CWEB",
